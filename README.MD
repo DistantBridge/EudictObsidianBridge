@@ -62,4 +62,4 @@ pip install pandas
 
 ## 样例
 
-![obsidian主界面](D:\Program_Myself\Program_Software_Project_Upload\EudictObsidianBridge\example_image\obsidian主界面.png)
+![obsidian主界面](\example_image\obsidian主界面.png)
