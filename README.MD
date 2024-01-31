@@ -62,4 +62,4 @@ pip install pandas
 
 ## 样例
 
-![obsidian主界面](\example_image\obsidian主界面.png)
+![obsidian主界面](.\example_image\obsidian主界面.png)
